@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Salmanasyraf
-- 👀 I’m interested in 
+- 👀 I’m interested in anything that using Data
 - 🌱 I’m currently learning to be Professional Data Analyst
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
