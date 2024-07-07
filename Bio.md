@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Salmanasyraf
+- 👋 Hi, I’m Salman Asyraf
 - 👀 I’m interested in anything that using Data
 - 🌱 I’m currently learning to be Professional Data Analyst
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me https://www.linkedin.com/in/salman-asyraf-suhaimi-185805317/
 - ⚡ Fun fact: Humorous Person
 
 <!---
