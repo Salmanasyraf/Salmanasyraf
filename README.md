@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salman Asyraf
 - 👀 I’m interested in anything that using Data
 - 🌱 I’m currently learning to be Professional Data Analyst
-- 📫 Reach me at  [LinkedIN](www.linkedin.com/in/salmanasyrafsuhaimi)
+- 📫 Reach me at  [LinkedIN](https://www.linkedin.com/in/salmanasyrafsuhaimi/)
 - ⚡ Fun fact: Humorous Person
 
 <!---
